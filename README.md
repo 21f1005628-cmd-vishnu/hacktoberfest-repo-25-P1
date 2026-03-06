@@ -18,7 +18,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) and follow our [Code of Conduct](
 
 ## What to work on
 
-- Issues labeled `good first issue`, `help wanted`, or `hacktoberfest`.
+- Issues labeled `good first issue`, `help wanted` or `hacktoberfest`.
 
 ## License
 
